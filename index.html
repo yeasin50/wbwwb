@@ -14,7 +14,7 @@
 
   <div class="overlay" id="paused">
     <div class="msg-title">paused</div>
-    <div class="msg-text">clickaa anywhere to resume</div>
+    <div class="msg-text">click anywhere to resume</div>
   </div>
 
 </body>
@@ -88,27 +88,30 @@
 
 
 <!-- Game Script -->
-  <script>
-    Game.stats = false;
+<script type="module">
+  import { spriteManager, Sprites } from "./sprites/sprite_manager.js";
+  spriteManager.setLanguage("bn");
 
-    window.onload = function() {
-        try {
-            // Initialize game
-            Game.init();
-        } catch (e) {
-            // Show warning overlay and set text
-            const warningOverlay = document.getElementById("warning");
-            warningOverlay.style.display = "block";
-            document.querySelector('#warning .msg-title').innerHTML = textStrings.warningTitle;
-            document.querySelector('#warning .msg-text').innerHTML = textStrings.warningText;
-        }
+  Game.stats = false;
 
-        // Update paused overlay text
-        document.querySelector('#paused .msg-title').innerHTML = textStrings.pausedTitle;
-        document.querySelector('#paused .msg-text').innerHTML = textStrings.pausedText;
-    };
+  window.onload = function() {
+      try {
+          // Initialize game
+          Game.init();
+      } catch (e) {
+          // Show warning overlay and set text
+          const warningOverlay = document.getElementById("warning");
+          warningOverlay.style.display = "block";
+          document.querySelector('#warning .msg-title').innerHTML = textStrings.warningTitle;
+          document.querySelector('#warning .msg-text').innerHTML = textStrings.warningText;
+      }
 
-    // Set share text
-    window.SHARE_TEXT = textStrings.shareText;
-    window.SHARE_URL = "";
-  </script>
+      // Update paused overlay text
+      document.querySelector('#paused .msg-title').innerHTML = textStrings.pausedTitle;
+      document.querySelector('#paused .msg-text').innerHTML = textStrings.pausedText;
+  };
+
+  // Set share text
+  window.SHARE_TEXT = textStrings.shareText;
+  window.SHARE_URL = "";
+</script>
