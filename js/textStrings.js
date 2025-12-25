@@ -840,7 +840,7 @@ var textStrings_BN = {
 	"getARoom": "ছিঃ, যতসব! আর জায়গা পাওনি?",
 	"notCoolAnymore": "ধুর, টুপির ফ্যাশন এখন আর নেই",
 	"tvOnTv": "টিভির... ভেতরে টিভি!",
-	"cricky": "ছোট্ট ক্রিকি <3",
+	"cricky": "ছোট্ট ঝিঁঝিঁপোকা <3",
 	"tooManyCrickets": "আচ্ছা, অনেক বেশি পোকা হয়ে গেছে",
 	"normalPeep": "এক সাধারণ লোক",
 	"normalPeeps": "কয়েকজন সাধারণ লোক",
@@ -849,18 +849,18 @@ var textStrings_BN = {
 	// Act 2
 	"crazySquareAttacks": "পাগলা চারকোনার হামলা!",
 	"justMissed": "ইশ্‌, একটুর জন্য হলো না",
-	"somethingInteresting": "(ওদের *আকর্ষণীয়* কিছু একটা করার সময় ধরতে হবে...)",
+	"somethingInteresting": "(ওদের আকর্ষণীয় কিছু একটা করার সময় ধরতে হবে...)",
 	"whoIsScreaming": "(কে ওদের ওপর চিৎকার করছে, তাকে ধরতে হবে)",
 	"circleFearsSquares": "গোলরা চারকোনাদের ভয় পায়",
-	"whoScaresThem": "(ওরা *কাকে* ভয় পাচ্ছে, সেটাও ধরতে হবে)",
-	"areTheyScared": "(চারকোনাকে ভয় *পাওয়ার* সময়ই ওদের ধরতে হবে)", // ব্যবহৃত হয়নি
+	"whoScaresThem": "(ওরা কাকে ভয় পাচ্ছে, সেটাও ধরতে হবে)",
+	"areTheyScared": "(চারকোনাকে ভয় পাওয়ার সময়ই ওদের ধরতে হবে)", // ব্যবহৃত হয়নি
 	"squaresSnubCircles": "চারকোনারা গোলদের পাত্তাই দেয় না",
-	"areTheySnubbed": "(গোলকে পাত্তা না *দেওয়ার* সময়ই ওদের ধরতে হবে)", // ব্যবহৃত হয়নি
+	"areTheySnubbed": "(গোলকে পাত্তা না দেওয়ার সময়ই ওদের ধরতে হবে)", // ব্যবহৃত হয়নি
 	"everyoneHates": "সবাই সবাইকে ঘৃণা করে!!১!",
 	"almostEveryoneHates": "প্রায় সবাই সবাইকে ঘৃণা করে...",
 	"squaresHateCircles": "চারকোনারা গোলদের ঘৃণা করে",
 	"circlesHateSquares": "গোলরা চারকোনাদের ঘৃণা করে",
-	"areTheyYelling": "(অন্যদের ওপর *চিৎকার* করার সময়ই ওদের ধরতে হবে)", // ব্যবহৃত হয়নি
+	"areTheyYelling": "(অন্যদের ওপর চিৎকার করার সময়ই ওদের ধরতে হবে)", // ব্যবহৃত হয়নি
 	"nerdsNow": "এই খ্যাতগুলো এখন কী করছে?",
 	"schockedPeep": "এই লোকটা এমন চমকে গেল কেন?",
 	"whatever": "যাই হোক",
@@ -873,7 +873,7 @@ var textStrings_BN = {
 	// MANIFESTO
 	"manifesto": [
 		//"as if you viewers want GOOD news"       ,
-		"সদ্ভাব দেখতে কে আর টিভি দেখে?",
+		"মিলে-মিশে থাকার দৃশ্য দেখতে কে আর টিভি দেখে?",
 		"শান্তি জিনিসটা একঘেয়ে। মারামারি ভাইরাল হয়।",
 		//"peace is boring. conflict gets clicks." ,
 		"আর প্রত্যেক গল্পে একটা ঝামেলা থাকা দরকার, তাই...",
@@ -888,10 +888,10 @@ var textStrings_BN = {
 	"warning": "সতর্কবার্তা: এই অনুষ্ঠানে\nনাক-উঁচু ভাব, অভদ্রতা এবং গণহত্যার\nদৃশ্য রয়েছে।\nদর্শকদের বিচক্ষণতা কাম্য।",
 
 	// (cam-instructions.png) Camera Instructions
-	"pointAndClick": "পয়েন্ট ও ক্লিক",
+	"pointAndClick": "পয়েন্ট করে ক্লিক করুন",
 
 	// (chyron3.png)
-	"chyronNothing": "ওয়াও, এটা *কিছুই না*",
+	"chyronNothing": "ওয়াও, এটা কিছুই না",
 
 	// (credits0001.png)
 	"createdBy": "তৈরি করেছেন",
