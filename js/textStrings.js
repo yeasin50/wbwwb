@@ -833,6 +833,7 @@ var textStrings_TR = {
 	"misatrributed": "(yanlış bir şekilde ona atfedilir)",
 };
 
+/// Bangla translated by  https://github.com/yeasin50/wbwwb
 var textStrings_BN = {
 	// Act 1
 	"niceHat": "আরে, দারুণ টুপি তো!",
@@ -849,10 +850,10 @@ var textStrings_BN = {
 	// Act 2
 	"crazySquareAttacks": "পাগলা চারকোনার হামলা!",
 	"justMissed": "ইশ্‌, একটুর জন্য হলো না",
-	"somethingInteresting": "(ওদের আকর্ষণীয় কিছু একটা করার সময় ধরতে হবে...)",
-	"whoIsScreaming": "(কে ওদের ওপর চিৎকার করছে, তাকে ধরতে হবে)",
+	"somethingInteresting": "ওদের আকর্ষণীয় কিছু একটা করার সময় ধরতে হবে...",
+	"whoIsScreaming": "কে ওদের ওপর চিৎকার করছে, তাকে ধরতে হবে",
 	"circleFearsSquares": "গোলরা চারকোনাদের ভয় পায়",
-	"whoScaresThem": "(ওরা কাকে ভয় পাচ্ছে, সেটাও ধরতে হবে)",
+	"whoScaresThem": "ওরা কাকে ভয় পাচ্ছে, সেটাও ধরতে হবে)",
 	"areTheyScared": "(চারকোনাকে ভয় পাওয়ার সময়ই ওদের ধরতে হবে)", // ব্যবহৃত হয়নি
 	"squaresSnubCircles": "চারকোনারা গোলদের পাত্তাই দেয় না",
 	"areTheySnubbed": "(গোলকে পাত্তা না দেওয়ার সময়ই ওদের ধরতে হবে)", // ব্যবহৃত হয়নি
@@ -860,7 +861,7 @@ var textStrings_BN = {
 	"almostEveryoneHates": "প্রায় সবাই সবাইকে ঘৃণা করে...",
 	"squaresHateCircles": "চারকোনারা গোলদের ঘৃণা করে",
 	"circlesHateSquares": "গোলরা চারকোনাদের ঘৃণা করে",
-	"areTheyYelling": "(অন্যদের ওপর চিৎকার করার সময়ই ওদের ধরতে হবে)", // ব্যবহৃত হয়নি
+	"areTheyYelling": "অন্যদের ওপর চিৎকার করার সময়ই ওদের ধরতে হবে", // ব্যবহৃত হয়নি
 	"nerdsNow": "এই খ্যাতগুলো এখন কী করছে?",
 	"schockedPeep": "এই লোকটা এমন চমকে গেল কেন?",
 	"whatever": "যাই হোক",
@@ -885,7 +886,7 @@ var textStrings_BN = {
 
 	// (bg_preload.png) Preload screen
 	"playingTime": "খেলার সময়: ৫ মিনিট",
-	"warning": "সতর্কবার্তা: এই অনুষ্ঠানে\nনাক-উঁচু ভাব, অভদ্রতা এবং গণহত্যার\nদৃশ্য রয়েছে।\nদর্শকদের বিচক্ষণতা কাম্য।",
+    "warning": "সতর্কবার্তা: এই গেমে\nঅহংকার, অভদ্রতা\nএবং গণহত্যার দৃশ্য রয়েছে।\nদর্শকের বিবেচনা প্রয়োজন।",
 
 	// (cam-instructions.png) Camera Instructions
 	"pointAndClick": "পয়েন্ট করে ক্লিক করুন",
@@ -901,7 +902,7 @@ var textStrings_BN = {
 	"manyThanks": "অসংখ্য ধন্যবাদ আমার প্লে-টেস্টারদের:",
 
 	// (credits000[3,4,5,6].png)
-	"patreonSupporters": "এবং আমার প্যাট্রিয়ন সমর্থকদের:",
+	"patreonSupporters": "এবং আমার patreon সমর্থকদের:",
 
 	// (credits0007.png)
 	"lastButNotLeast": "এবং সবশেষে,",
